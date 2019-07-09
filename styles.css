@@ -62,8 +62,8 @@ a img{
 
 
 .android-logo-image {
-  height: 28px;
-  width: 140px;
+  height: 40px;
+  width: 160px;
 }
 
 
@@ -122,7 +122,7 @@ a img{
   }
 
     .android-navigation .mdl-navigation__link:hover {
-      border-bottom: 4px solid #8bc34a;
+      border-bottom: 4px solid #fffb00;
     }
 
   .android-search-box {
@@ -161,7 +161,7 @@ a img{
 
   .android-drawer .mdl-layout-title {
     position: relative;
-    background: #6ab344;
+    background: #fbff00;
     height: 160px;
   }
 
@@ -175,14 +175,14 @@ a img{
   height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/slide01.jpg') center 30% no-repeat;
+  background: url('images/kopi-bg.jpg') center 30% no-repeat;
   background-size: cover;
 }
 
 .logo-font {
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   line-height: 1;
-  color: #767777;
+  color: #f3f3f3;
   font-weight: 500;
 }
 
@@ -203,7 +203,7 @@ a img{
 
   .android-create-character a {
     text-decoration: none;
-    color: #767777;
+    color: #f3f3f3;
     font-weight: 300;
   }
 
@@ -218,6 +218,7 @@ a img{
   width: 100%;
   white-space: nowrap;
   overflow-x: auto;
+  font-weight: bold;
 }
 
 .android-screen {
@@ -260,8 +261,8 @@ a img{
 
 .android-tablet {
   display: inline-block;
-  width: 110px;
-  margin-right: 64px;
+  width: 200px;
+  margin-right: 80px;
 }
 
   .android-tablet .android-screen-image {
@@ -302,9 +303,9 @@ a img{
 
 .android-wear-section {
   position: relative;
-  background: url('images/wear.png') center top no-repeat;
+  background: url('images/kebun-teh-gambung-1.jpg') center top no-repeat;
   background-size: cover;
-  height: 800px;
+  height: 600px;
 }
 
 .android-wear-band {
@@ -329,7 +330,7 @@ a img{
 
 .android-link {
   text-decoration: none;
-  color: #8bc34a !important;
+  color: #353535 !important;
 }
 
   .android-link:hover {
@@ -344,7 +345,7 @@ a img{
 
 .android-alt-link {
   text-decoration: none;
-  color: #64ffda !important;
+  color: #c5bfbf !important;
   font-size: 16px;
 }
 
@@ -373,7 +374,7 @@ a img{
   }
 
 .android-customized-section-image {
-  background: url('images/devices.jpg') center top no-repeat;
+  background: url('images/Kebun-kopi.jpg') center top no-repeat;
   background-size: cover;
   height: 400px;
 }
