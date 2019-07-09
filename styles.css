@@ -214,7 +214,7 @@ a img{
 }
 
 .android-screens {
-  text-align: right;
+  text-align: center;
   width: 100%;
   white-space: nowrap;
   overflow-x: auto;
@@ -400,7 +400,7 @@ a img{
   }
 
     .android-card-container .mdl-card__media img {
-      width: 100%;
+      width: 80%;
     }
 
   .android-card-container .mdl-card__title {
